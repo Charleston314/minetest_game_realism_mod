@@ -1,0 +1,1 @@
+This is a mod to make the game minetest_game_realism_mod mostly compatible with games that depend on the game minetest_game.
