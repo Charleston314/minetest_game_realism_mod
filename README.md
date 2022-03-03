@@ -1,6 +1,6 @@
-# Minetest Game
+# Minetest Game Realism Mod
 
-The default game bundled in the Minetest engine.  
+This is a game based on Minetest game, the default game for the Minetest game engine.
 
 For further information, check 
 [this forum topic](https://forum.minetest.net/viewtopic.php?f=15&t=9724).   
