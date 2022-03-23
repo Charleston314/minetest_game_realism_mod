@@ -1,1 +1,0 @@
-All code is under its original license(see the mods that code was taken from in Minetest game).
